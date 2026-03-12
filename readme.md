@@ -8,7 +8,6 @@
 - [Executive Summary](#-executive-summary)
 - [System Architecture](#-system-architecture)
 - [Technology Stack](#-technology-stack)
-- [Usage](#-usage)
 - [Key Findings & Results](#-key-findings--results)
 - [Future Roadmap](#-future-roadmap)
 - [Contact](#-contact)
@@ -72,5 +71,5 @@ The methodology follows a robust data science lifecycle, from ingestion to model
 
 ## Made by
 
-**Anmol Bhatnagar** [GitHub Profile](https://www.google.com/search?q=https://github.com/Anmol-OS) | [LinkedIn](https://www.linkedin.com/in/anmol-bhatnagar03/)
+**Anmol Bhatnagar** [GitHub Profile](https://github.com/Anmol-OS) | [LinkedIn](https://www.linkedin.com/in/anmol-bhatnagar03/)
 
